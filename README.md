@@ -1,6 +1,5 @@
 # Projeto de Aprendizado em Desenvolvimento Front-End
 
-Este projeto faz parte do meu aprendizado em desenvolvimento front-end, baseado em um layout criado no Figma. Ao longo deste projeto, aprendi diversos conceitos fundamentais e boas práticas de desenvolvimento web, conforme descrito abaixo.
 
 ## O que eu aprendi 
 
